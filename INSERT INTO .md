@@ -7,10 +7,6 @@ The INSERT command creates a new row in the table to store data.
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
-Example
-```
-INSERT INTO students (ID,LastName,FirstName,ADDRESS,CITY)
-VALUES (1, 'Nimmu', 'Sruthi', 'Hyd','Hyd'); 
-```
+
 
 
