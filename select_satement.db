@@ -1,0 +1,3 @@
+SELECT ID LastName Address City from students;
+OR
+SELECT * from students;

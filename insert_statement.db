@@ -1,0 +1,2 @@
+INSERT INTO students (ID,LastName,FirstName,ADDRESS,CITY)
+VALUES (1, 'Nimmu', 'Sruthi', 'Hyd','Hyd'); 

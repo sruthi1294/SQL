@@ -1,0 +1,2 @@
+UPDATE students
+SET LastName = 'UPPALPATI', city = 'Hyd' where Id = 1.
