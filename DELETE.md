@@ -6,8 +6,4 @@ The SQL DELETE command is used to delete rows that are no longer required from t
 DELETE FROM table_name
 WHERE condition;
 ```
-Example:
-```
-DELETE FROM students
-WHERE Address = 'Hyd';
-```
+
