@@ -4,7 +4,7 @@ To read records from a table use Select Statement.
 ## SELECT Statement
 The SELECT statement is used to select data from a database.
 
-### SELECT Syntax
+### Syntax
 ```
 SELECT column1, column2, ...
 FROM table_name;
