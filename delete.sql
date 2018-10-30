@@ -1,1 +1,0 @@
-DELETE FROM Students where ID ='4';
